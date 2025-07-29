@@ -129,5 +129,14 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>... et bien plus encore sur le store netgear</mj-text>
+        <mj-button>Découvrir</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-text>* Support mural Offert sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS, RBK854WM-100EUS et RBK855WM-100EUS. Offre valable jusqu'au 20 Septembre inclus et dans la limite des stocks disponibles.</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
