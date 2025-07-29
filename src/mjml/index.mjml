@@ -113,7 +113,7 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/mc+327bl.jpg" alt=""/>
+        <mj-image src="./images/mc327bl.jpg" alt=""/>
         <mj-text>Tableau d'Art connecté</mj-text>
         <mj-text>Meural Cadre Noir 27"</mj-text>
         <mj-text>(MC327BL)</mj-text>
