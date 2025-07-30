@@ -47,50 +47,50 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text>Equipez-vous du meilleur WiFi pour la rentrée</mj-text>
+        <mj-text padding="0" align="center">Equipez-vous du meilleur WiFi pour la rentrée</mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-image src="./images/illustration.jpg" alt=""/>
+        <mj-image padding="0" width="700px" src="./images/illustration.jpg" alt=""/>
       </mj-column>
       <mj-column width="100%">
-        <mj-text>Des promos à saisir vite doctype html</mj-text>
-        <mj-text>Le retour de congé est une période de l’année que nous redoutons amèrement.Pour vous aider à la digérer, nous vous avons concocté plusieurs promos qui pourraient vous intéresser pour bien démarrer votre année.</mj-text>
-        <mj-text>Equipez-vous de nos Solutions Mesh Orbi WiFi 6 pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
-        <mj-text>Profitez sans plus tarder des promos en cours</mj-text>
+        <mj-text padding="0" align="center">Des promos à saisir vite doctype html</mj-text>
+        <mj-text padding="0" align="center">Le retour de congé est une période de l’année que nous redoutons amèrement.Pour vous aider à la digérer, nous vous avons concocté plusieurs promos qui pourraient vous intéresser pour bien démarrer votre année.</mj-text>
+        <mj-text padding="0" align="center">Equipez-vous de nos Solutions Mesh Orbi WiFi 6 pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
+        <mj-text padding="0" align="center">Profitez sans plus tarder des promos en cours</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text>Système Mesh Orbi WiFi AX6000 Support Mural offert* </mj-text>
+        <mj-text padding="0" align="center">Système Mesh Orbi WiFi AX6000 Support Mural offert* </mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-text>La meilleure connexion WiFi qui puisse exister</mj-text>
+        <mj-text padding="0" align="center">La meilleure connexion WiFi qui puisse exister</mj-text>
       </mj-column>
       <mj-column width="33.333333%">
-        <mj-image src="./images/rbk852.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text>AX6000 (RBK852)</mj-text>
-        <mj-text>Jusqu'à 460 m2</mj-text>
-        <mj-text>+1 support mural offert</mj-text>
-        <mj-text>819.99€ 789.99€</mj-text>
+        <mj-image padding="0" width="208px" src="./images/rbk852.jpg" alt=""/>
+        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center">AX6000 (RBK852)</mj-text>
+        <mj-text padding="0" align="center">Jusqu'à 460 m2</mj-text>
+        <mj-text padding="0" align="center">+1 support mural offert</mj-text>
+        <mj-text padding="0" align="center">819.99€ 789.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
-        <mj-image src="./images/rbk853.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text>AX6000 (RBK853)</mj-text>
-        <mj-text>Jusqu'à 690 m2</mj-text>
-        <mj-text>+2 supports muraux offerts</mj-text>
-        <mj-text>1139.99€ 1069.99€</mj-text>
+        <mj-image padding="0" width="208px" src="./images/rbk853.jpg" alt=""/>
+        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center">AX6000 (RBK853)</mj-text>
+        <mj-text padding="0" align="center">Jusqu'à 690 m2</mj-text>
+        <mj-text padding="0" align="center">+2 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center">1139.99€ 1069.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
-        <mj-image src="./images/rbk854.jpg" alt=""/>
-        <mj-text>Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text>AX6000 (RBK854)</mj-text>
-        <mj-text>Jusqu'à 920 m2</mj-text>
-        <mj-text>+3 supports muraux offerts</mj-text>
-        <mj-text>1609.99€ 1469.99€</mj-text>
+        <mj-image padding="0" width="208px" src="./images/rbk854.jpg" alt=""/>
+        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center">AX6000 (RBK854)</mj-text>
+        <mj-text padding="0" align="center">Jusqu'à 920 m2</mj-text>
+        <mj-text padding="0" align="center">+3 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center">1609.99€ 1469.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
