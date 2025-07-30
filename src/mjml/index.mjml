@@ -96,36 +96,36 @@
     </mj-section>
     <mj-section>
       <mj-column width="100%">
-        <mj-text>Jusqu'à -30% sur cette sélection de produits</mj-text>
+        <mj-text padding="0" align="center">Jusqu'à -30% sur cette sélection de produits</mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="./images/ex8000.jpg" alt=""/>
-        <mj-text>Répéteur WiFi Mesh</mj-text>
-        <mj-text>AC3000 (EX8000)</mj-text>
-        <mj-text>169.99€ 139.99€</mj-text>
+        <mj-image padding="0" width="275px" src="./images/ex8000.jpg" alt=""/>
+        <mj-text padding="0" align="center">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center">AC3000 (EX8000)</mj-text>
+        <mj-text padding="0" align="center">169.99€ 139.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="./images/ex6250.jpg" alt=""/>
-        <mj-text>Répéteur WiFi Mesh</mj-text>
-        <mj-text>AC1750 (EX6250)</mj-text>
-        <mj-text>59.99€ 49.99€</mj-text>
+        <mj-image padding="0" width="275px" src="./images/ex6250.jpg" alt=""/>
+        <mj-text padding="0" align="center">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center">AC1750 (EX6250)</mj-text>
+        <mj-text padding="0" align="center">59.99€ 49.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="./images/mc327bl.jpg" alt=""/>
-        <mj-text>Tableau d'Art connecté</mj-text>
-        <mj-text>Meural Cadre Noir 27"</mj-text>
-        <mj-text>(MC327BL)</mj-text>
-        <mj-text>849.99€ 599.99€</mj-text>
+        <mj-image padding="0" width="275px" src="./images/mc327bl.jpg" alt=""/>
+        <mj-text padding="0" align="center">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center">Meural Cadre Noir 27"</mj-text>
+        <mj-text padding="0" align="center">(MC327BL)</mj-text>
+        <mj-text padding="0" align="center">849.99€ 599.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="./images/mc321wl.jpg" alt=""/>
-        <mj-text>Tableau d'Art connecté</mj-text>
-        <mj-text>Meural Cadre Blanc 21"</mj-text>
-        <mj-text>(MC321WL)</mj-text>
-        <mj-text>699.99€ 499.99€</mj-text>
+        <mj-image padding="0" width="275px" src="./images/mc321wl.jpg" alt=""/>
+        <mj-text padding="0" align="center">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center">Meural Cadre Blanc 21"</mj-text>
+        <mj-text padding="0" align="center">(MC321WL)</mj-text>
+        <mj-text padding="0" align="center">699.99€ 499.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
