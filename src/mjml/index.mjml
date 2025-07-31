@@ -13,13 +13,7 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
-      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="50px" font-weight="300"/>
-      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
-      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
@@ -54,9 +48,9 @@
       </mj-column>
       <mj-column width="100%">
         <mj-text padding="0" align="center">Des promos à saisir vite doctype html</mj-text>
-        <mj-text padding="0" align="center">Le retour de congé est une période de l’année que nous redoutons amèrement.Pour vous aider à la digérer, nous vous avons concocté plusieurs promos qui pourraient vous intéresser pour bien démarrer votre année.</mj-text>
-        <mj-text padding="0" align="center">Equipez-vous de nos Solutions Mesh Orbi WiFi 6 pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
-        <mj-text padding="0" align="center">Profitez sans plus tarder des promos en cours</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Le retour de congé est une période de l’année que nous redoutons amèrement.Pour vous aider à la digérer, nous vous avons concocté plusieurs promos qui pourraient vous intéresser pour bien démarrer votre année.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Equipez-vous de nos Solutions Mesh Orbi WiFi 6 pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Profitez sans plus tarder des promos en cours.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -68,29 +62,29 @@
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="208px" src="./images/rbk852.jpg" alt=""/>
-        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX6000 (RBK852)</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à 460 m2</mj-text>
-        <mj-text padding="0" align="center">+1 support mural offert</mj-text>
-        <mj-text padding="0" align="center">819.99€ 789.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK852)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 460 m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">+1 support mural offert</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">819.99€ 789.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="208px" src="./images/rbk853.jpg" alt=""/>
-        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX6000 (RBK853)</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à 690 m2</mj-text>
-        <mj-text padding="0" align="center">+2 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center">1139.99€ 1069.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK853)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 690 m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">+2 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">1139.99€ 1069.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="208px" src="./images/rbk854.jpg" alt=""/>
-        <mj-text padding="0" align="center">Système Mesh Orbi WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX6000 (RBK854)</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à 920 m2</mj-text>
-        <mj-text padding="0" align="center">+3 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center">1609.99€ 1469.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK854)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 920 m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">+3 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">1609.99€ 1469.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
@@ -100,32 +94,32 @@
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/ex8000.jpg" alt=""/>
-        <mj-text padding="0" align="center">Répéteur WiFi Mesh</mj-text>
-        <mj-text padding="0" align="center">AC3000 (EX8000)</mj-text>
-        <mj-text padding="0" align="center">169.99€ 139.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">AC3000 (EX8000)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">169.99€ 139.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/ex6250.jpg" alt=""/>
-        <mj-text padding="0" align="center">Répéteur WiFi Mesh</mj-text>
-        <mj-text padding="0" align="center">AC1750 (EX6250)</mj-text>
-        <mj-text padding="0" align="center">59.99€ 49.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">AC1750 (EX6250)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">59.99€ 49.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/mc327bl.jpg" alt=""/>
-        <mj-text padding="0" align="center">Tableau d'Art connecté</mj-text>
-        <mj-text padding="0" align="center">Meural Cadre Noir 27"</mj-text>
-        <mj-text padding="0" align="center">(MC327BL)</mj-text>
-        <mj-text padding="0" align="center">849.99€ 599.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Meural Cadre Noir 27"</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">(MC327BL)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">849.99€ 599.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/mc321wl.jpg" alt=""/>
-        <mj-text padding="0" align="center">Tableau d'Art connecté</mj-text>
-        <mj-text padding="0" align="center">Meural Cadre Blanc 21"</mj-text>
-        <mj-text padding="0" align="center">(MC321WL)</mj-text>
-        <mj-text padding="0" align="center">699.99€ 499.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Meural Cadre Blanc 21"</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">(MC321WL)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">699.99€ 499.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
