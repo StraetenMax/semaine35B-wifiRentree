@@ -15,8 +15,10 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
+      <mj-class name="T15-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
@@ -127,12 +129,12 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">... et bien plus encore sur le store netgear</mj-text>
-        <mj-button>Découvrir</mj-button>
+      <mj-column width="100%" mj-class="bgT1">
+        <mj-text padding="0" align="center" mj-class="T30-500 cTW">... et bien plus encore sur le store netgear</mj-text>
+        <mj-button mj-class="bgW cT1">Découvrir</mj-button>
       </mj-column>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">* Support mural Offert sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS, RBK854WM-100EUS et RBK855WM-100EUS. Offre valable jusqu'au 20 Septembre inclus et dans la limite des stocks disponibles.</mj-text>
+      <mj-column width="100%" mj-class="bgW">
+        <mj-text padding="0" align="center" mj-class="T15-300 cT1">* Support mural Offert sur la sélection suivante : RBK852WM-100EUS, RBK853WM-100EUS, RBK854WM-100EUS et RBK855WM-100EUS. Offre valable jusqu'au 20 Septembre inclus et dans la limite des stocks disponibles.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
