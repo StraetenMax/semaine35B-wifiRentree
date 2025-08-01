@@ -13,6 +13,9 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
@@ -40,8 +43,8 @@
       </mj-group>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">Equipez-vous du meilleur WiFi pour la rentrée</mj-text>
+      <mj-column width="100%" mj-class="bgT1">
+        <mj-text padding="0" align="center" mj-class="T32-300 cTW">Equipez-vous du meilleur WiFi pour la rentrée</mj-text>
       </mj-column>
       <mj-column width="100%">
         <mj-image padding="0" width="700px" src="./images/illustration.jpg" alt=""/>
@@ -54,11 +57,11 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">Système Mesh Orbi WiFi AX6000 Support Mural offert* </mj-text>
+      <mj-column width="100%" mj-class="bgB">
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW">Système Mesh Orbi WiFi AX6000 Support Mural offert* </mj-text>
       </mj-column>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">La meilleure connexion WiFi qui puisse exister</mj-text>
+      <mj-column width="100%" mj-class="bgB">
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" font-weight="700">La meilleure connexion WiFi qui puisse exister</mj-text>
       </mj-column>
       <mj-column width="33.333333%">
         <mj-image padding="0" width="208px" src="./images/rbk852.jpg" alt=""/>
@@ -89,38 +92,38 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column width="100%">
-        <mj-text padding="0" align="center">Jusqu'à -30% sur cette sélection de produits</mj-text>
+      <mj-column width="100%" mj-class="bgT1">
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Jusqu'à -30% sur cette sélection de produits</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/ex8000.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500">Répéteur WiFi Mesh</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">AC3000 (EX8000)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">169.99€ 139.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC3000 (EX8000)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">169.99€ 139.99€</mj-text>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/ex6250.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500">Répéteur WiFi Mesh</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">AC1750 (EX6250)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">59.99€ 49.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC1750 (EX6250)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">59.99€ 49.99€</mj-text>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/mc327bl.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500">Tableau d'Art connecté</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">Meural Cadre Noir 27"</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">(MC327BL)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">849.99€ 599.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural Cadre Noir 27"</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(MC327BL)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">849.99€ 599.99€</mj-text>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" width="275px" src="./images/mc321wl.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500">Tableau d'Art connecté</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">Meural Cadre Blanc 21"</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">(MC321WL)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">699.99€ 499.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art connecté</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural Cadre Blanc 21"</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(MC321WL)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">699.99€ 499.99€</mj-text>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
