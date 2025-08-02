@@ -23,6 +23,7 @@
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
+      <mj-class name="T9-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" line-height="10px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -39,7 +40,7 @@
     <mj-section padding="24px 30px" mj-class="bgT1">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image align="left" padding="0" width="145px" src="./images/logoNetgearWhite.png" alt="logo Netgear store en blanc"/>
+          <mj-image align="left" padding="0" width="130px" src="./images/netgearStore.png" alt="logo Netgear store en blanc"/>
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
@@ -58,8 +59,8 @@
       <mj-column padding="10px" width="100%" mj-class="bgW" border="1px solid #CECECE">
         <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T26-400 cT1" letter-spacing="0.5px">Des promos à saisir vite</mj-text>
         <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Le retour de congé est une période de l’année que nous redoutons amèrement.Pour vous aider à la digérer, nous vous avons concocté plusieurs promos qui pourraient vous intéresser pour bien démarrer votre année.</mj-text>
-        <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Equipez-vous de nos Solutions Mesh Orbi WiFi 6 pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Profitez sans plus tarder des promos en cours.</mj-text>
+        <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Equipez-vous de nos <strong>Solutions Mesh Orbi WiFi 6</strong> pour faire face à tous les usages qui peuvent se faire simultanément à la maison, comme le téléchargement de fichiers volumineux pendant votre télétravail, le streaming d’un film ou une série, les conférences pour un cours à distance, les jeux en ligne et bien plus encore.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Profitez sans plus tarder des promos en cours.</strong></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
@@ -75,9 +76,9 @@
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK852)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 460 m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">+1 support mural offert</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">819.99€ 789.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à <strong>460 m<sup style="font-size:10px;line-height:0;">2</sup></strong></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#00a3de;">+1 support mural offert</span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#ff0000;text-decoration-line:line-through;">819.99€</span> <strong style="color:#00a3de;">789.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="20px"></mj-spacer>
@@ -87,9 +88,9 @@
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK853)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 690 m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">+2 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">1139.99€ 1069.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à <strong>690 m<sup style="font-size:10px;line-height:0;">2</sup></strong></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#00a3de;">+2 supports muraux offerts</span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#ff0000;text-decoration-line:line-through;">1139.99€</span> <strong style="color:#00a3de;">1069.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="20px"></mj-spacer>
@@ -99,9 +100,9 @@
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="0" align="center" mj-class="T17-500">Système Mesh Orbi WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500">AX6000 (RBK854)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à 920 m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">+3 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500">1609.99€ 1469.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500">Jusqu'à <strong>920 m<sup style="font-size:10px;line-height:0;">2</sup></strong></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#00a3de;">+3 supports muraux offerts</span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500"><span style="color:#ff0000;text-decoration-line:line-through;">1609.99€</span> <strong style="color:#00a3de;">1469.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="20px"></mj-spacer>
@@ -116,7 +117,7 @@
         <mj-spacer height="10px"></mj-spacer>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC3000 (EX8000)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">169.99€ 139.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">169.99€</span> <strong style="color:#00a3de;">139.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"></mj-spacer>
@@ -126,7 +127,7 @@
         <mj-spacer height="10px">   </mj-spacer>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC1750 (EX6250)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">59.99€ 49.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">59.99€</span> <strong style="color:#00a3de;">49.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"></mj-spacer>
@@ -137,7 +138,7 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art connecté</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural Cadre Noir 27"</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(MC327BL)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">849.99€ 599.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">849.99€</span> <strong style="color:#00a3de;">599.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"></mj-spacer>
@@ -148,7 +149,7 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Tableau d'Art connecté</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Meural Cadre Blanc 21"</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(MC321WL)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">699.99€ 499.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">699.99€</span> <strong style="color:#00a3de;">499.99€</strong></mj-text>
         <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"></mj-spacer>
@@ -182,12 +183,12 @@
     </mj-section>
     <mj-section padding="0 28px 42px 31px" mj-class="bgW">
       <mj-column>
-        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous désabonner</mj-text>
-        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">Mettre à jour mon profil</mj-text>
-        <mj-text padding="0" mj-class="T12-400 cT1">Cet emailing a été envoyé par : %%Member_Busname%%</mj-text>
+        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous <a style="color:#2c262d" href="#">désabonner</a></mj-text>
+        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1"><a style="color:#2c262d;" href="#">Mettre à jour mon profil</a></mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1">Cet emailing a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
         <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
         <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
-        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">Pour recevoir nos e-mails, ajoutez l'adresse emarketing@e.netgear.com à votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" padding-bottom="13px" mj-class="T12-400 cT1">Pour recevoir nos e-mails, ajoutez l'adresse <a style="color:#2c262d;" href="mailto:marketing@e.netgear.com">marketing@e.netgear.com</a> à votre carnet d'adresses.</mj-text>
         <mj-text padding="0" mj-class="T12-400 cT1">Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés.</mj-text>
       </mj-column>
     </mj-section>
